@@ -154,6 +154,6 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-Made with ❤️ for Kerman investment ecosystem
+Made with ❤️ Mohammad Yasin Baloochi
 
 </div>
